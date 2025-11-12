@@ -1,0 +1,37 @@
+ * ABOUT        XMRig/6.24.0 MSVC/2022 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.51.0 OpenSSL/3.0.16 hwloc/2.12.1
+ * HUGE PAGES   unavailable
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i9-12900KF (1) 64-bit AES VM
+                L2:14.0 MB L3:30.0 MB 16C/24T NUMA:1
+ * MEMORY       18.5/63.8 GB (29%)
+                Controller0-ChannelA-DIMM0: 16 GB DDR4 @ 2666 MHz AX4U360016G18I-BBKD3
+                Controller0-ChannelA-DIMM1: 16 GB DDR4 @ 2666 MHz AX4U360016G18I-BBKD3
+                Controller1-ChannelA-DIMM0: 16 GB DDR4 @ 2666 MHz AX4U360016G18I-BBKD3
+                Controller1-ChannelA-DIMM1: 16 GB DDR4 @ 2666 MHz AX4U320016G16A-DTBKD
+ * MOTHERBOARD  ASUS - System Product Name
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      pool.supportxmr.com:443 coin Monero
+ * POOL #2      de.supportxmr.com:443 coin Monero
+ * POOL #3      us-east.supportxmr.com:443 coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+[2025-11-12 02:20:08.870]  config   configuration saved to: "config.json"
+ * OPENCL       disabled
+ * CUDA         disabled
+[2025-11-12 02:20:08.980]  net      use pool pool.supportxmr.com:443 TLSv1.2 141.94.96.144
+[2025-11-12 02:20:08.980]  net      fingerprint (SHA-256): "2d3276469e3bbabbb97359c7c428b5e9fc5126dee4a416358d8d7874eda56801"
+[2025-11-12 02:20:08.980]  net      new job from pool.supportxmr.com:443 diff 75000 algo rx/0 height 3541924 (8 tx)
+[2025-11-12 02:20:08.980]  cpu      use argon2 implementation AVX2
+[2025-11-12 02:20:08.981]  msr      to access MSR registers Administrator privileges required.
+[2025-11-12 02:20:08.981]  msr      FAILED TO APPLY MSR MOD, HASHRATE WILL BE LOW
+[2025-11-12 02:20:08.981]  randomx  init dataset algo rx/0 (10 threads) seed 9e55aee3e0d89218...
+[2025-11-12 02:20:08.981]  randomx  allocated 2336 MB (2080+256) huge pages 0% 0/1168 +JIT (0 ms)
+[2025-11-12 02:20:12.324]  randomx  dataset ready (3343 ms)
+[2025-11-12 02:20:12.324]  cpu      use profile  rx  (10 threads) scratchpad 2048 KB
+[2025-11-12 02:20:12.348]  cpu      READY threads 10/10 (10) huge pages 0% 0/10 memory 20480 KB (23 ms)
+[2025-11-12 02:20:18.241]  net      new job from pool.supportxmr.com:443 diff 75000 algo rx/0 height 3541924 (11 tx)
+[2025-11-12 02:20:22.441]  miner    speed 10s/60s/15m n/a n/a n/a H/s max n/a H/s
+[2025-11-12 02:20:28.349]  net      new job from pool.supportxmr.com:443 diff 75000 algo rx/0 height 3541924 (12 tx)
+[2025-11-12 02:20:32.568]  miner    speed 10s/60s/15m 4682.7 n/a n/a H/s max 4736.7 H/s
+[2025-11-12 02:20:33.118]  net      new job from pool.supportxmr.com:443 diff 97826 algo rx/0 height 3541924 (12 tx)

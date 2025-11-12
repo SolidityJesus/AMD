@@ -1,0 +1,10 @@
+[INFO] Creando tarea programada  
+[ERROR] Fallo al crear tarea (RC=1
+[INFO] La tarea  ya existe. 
+[12/11/2025  2:26:24,50] INICIO 
+[INFO] Destino: C:\ProgramData\XMR 
+[INFO] Creando tarea programada XMRigBackground 
+[ERROR] Fallo al crear tarea (RC=1
+[INFO] La tarea XMRigBackground ya existe. 
+[ERROR] No se creo start_xmrig_autorun.bat 
+[FIN] Instalacion/registro completado. Revisa C:\ProgramData\XMR\install_trace.txt y C:\ProgramData\XMR\miner_xmr_log.txt 
